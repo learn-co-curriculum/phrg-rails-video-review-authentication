@@ -39,3 +39,4 @@ Any other comments or feedback you have? Raise an issue and let us know.
 This video is meant as optional supplemental material to augment the written curriculum. If you feel you already understand Rails Authentication than you are welcome to skip the video and continue forward. Feel free to come back here if you ever want a review.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-video-review-authentication'>Rails Video Review: Authentication </a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Authentication- Overview</p>
